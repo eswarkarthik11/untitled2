@@ -1,0 +1,65 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Cut" count="1" />
+      <entry action="$Delete" count="9" />
+      <entry action="$Paste" count="1" />
+      <entry action="$Undo" count="110" />
+      <entry action="ActivateTerminalToolWindow" count="1" />
+      <entry action="ChangesView.AddUnversioned.From.Dialog" count="1" />
+      <entry action="ChangesView.CreatePatch" count="1" />
+      <entry action="ChangesView.Refresh" count="5" />
+      <entry action="CheckinProject" count="3" />
+      <entry action="CloseProject" count="1" />
+      <entry action="CodeCompletion" count="13" />
+      <entry action="CommentByBlockComment" count="13" />
+      <entry action="Debug" count="4" />
+      <entry action="DebugClass" count="1" />
+      <entry action="EditorBackSpace" count="1679" />
+      <entry action="EditorChooseLookupItem" count="46" />
+      <entry action="EditorCopy" count="27" />
+      <entry action="EditorCut" count="11" />
+      <entry action="EditorDelete" count="10" />
+      <entry action="EditorDown" count="61" />
+      <entry action="EditorEnter" count="308" />
+      <entry action="EditorEscape" count="2" />
+      <entry action="EditorIndentSelection" count="9" />
+      <entry action="EditorLeft" count="284" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorLookupDown" count="1" />
+      <entry action="EditorPageDown" count="4" />
+      <entry action="EditorPageDownWithSelection" count="1" />
+      <entry action="EditorPaste" count="46" />
+      <entry action="EditorRight" count="300" />
+      <entry action="EditorScrollDown" count="1" />
+      <entry action="EditorStartNewLine" count="3" />
+      <entry action="EditorTab" count="112" />
+      <entry action="EditorUp" count="57" />
+      <entry action="EditorUpWithSelection" count="1" />
+      <entry action="Exit" count="1" />
+      <entry action="FileChooser.GotoDesktop" count="1" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Clone" count="1" />
+      <entry action="Git.Init" count="1" />
+      <entry action="GotoDeclaration" count="1" />
+      <entry action="HideAllWindows" count="23" />
+      <entry action="JumpToLastWindow" count="1" />
+      <entry action="NewDir" count="3" />
+      <entry action="NewJavaScriptFile" count="9" />
+      <entry action="NewWebStormDirectoryProject" count="3" />
+      <entry action="OpenFile" count="7" />
+      <entry action="Rerun" count="4" />
+      <entry action="Resume" count="1" />
+      <entry action="Run" count="16" />
+      <entry action="RunClass" count="4" />
+      <entry action="SaveAll" count="5" />
+      <entry action="ShowErrorDescription" count="2" />
+      <entry action="Stop" count="5" />
+      <entry action="ToggleLineBreakpoint" count="9" />
+      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="XDebugger.MuteBreakpoints" count="2" />
+    </counts>
+  </component>
+</application>
