@@ -14,7 +14,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/WebstormProjects/varun" />
+        <option value="$USER_HOME$/WebstormProjects/untitled2" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/WebstormProjects/untitled2" />
@@ -125,8 +125,8 @@
               <option name="build" value="WS-172.4155.35" />
               <option name="productionCode" value="WS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1506546302758" />
-              <option name="buildTimestamp" value="1505137955035" />
+              <option name="projectOpenTimestamp" value="1506547016536" />
+              <option name="buildTimestamp" value="1505137974812" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="$Copy" count="2" />
+      <entry action="$Copy" count="3" />
       <entry action="$Cut" count="1" />
       <entry action="$Delete" count="9" />
       <entry action="$Paste" count="1" />
@@ -9,21 +9,22 @@
       <entry action="ActivateTerminalToolWindow" count="1" />
       <entry action="ChangesView.AddUnversioned.From.Dialog" count="1" />
       <entry action="ChangesView.CreatePatch" count="1" />
-      <entry action="ChangesView.Refresh" count="6" />
-      <entry action="CheckinProject" count="7" />
+      <entry action="ChangesView.Refresh" count="7" />
+      <entry action="ChangesView.Shelve" count="1" />
+      <entry action="CheckinProject" count="8" />
       <entry action="CloseProject" count="1" />
       <entry action="CodeCompletion" count="13" />
       <entry action="CommentByBlockComment" count="13" />
       <entry action="Debug" count="4" />
       <entry action="DebugClass" count="1" />
-      <entry action="EditorBackSpace" count="1770" />
+      <entry action="EditorBackSpace" count="1771" />
       <entry action="EditorChooseLookupItem" count="46" />
       <entry action="EditorCopy" count="46" />
       <entry action="EditorCut" count="11" />
       <entry action="EditorDelete" count="10" />
       <entry action="EditorDeleteLine" count="1" />
       <entry action="EditorDown" count="61" />
-      <entry action="EditorEnter" count="308" />
+      <entry action="EditorEnter" count="312" />
       <entry action="EditorEscape" count="2" />
       <entry action="EditorIndentSelection" count="9" />
       <entry action="EditorLeft" count="284" />
@@ -43,9 +44,11 @@
       <entry action="Git.Branches" count="1" />
       <entry action="Git.Clone" count="1" />
       <entry action="Git.Init" count="2" />
+      <entry action="Git.Log" count="1" />
+      <entry action="Git.Rebase" count="1" />
       <entry action="Github.Create.Gist" count="1" />
       <entry action="Github.Open.In.Browser" count="1" />
-      <entry action="Github.Share" count="3" />
+      <entry action="Github.Share" count="6" />
       <entry action="GotoDeclaration" count="1" />
       <entry action="HideAllWindows" count="23" />
       <entry action="JumpToLastWindow" count="1" />
@@ -60,7 +63,7 @@
       <entry action="RunClass" count="4" />
       <entry action="SaveAll" count="5" />
       <entry action="ShowErrorDescription" count="2" />
-      <entry action="ShowSettings" count="1" />
+      <entry action="ShowSettings" count="2" />
       <entry action="Start.Use.Vcs" count="2" />
       <entry action="Stop" count="6" />
       <entry action="SynchronizeCurrentFile" count="1" />

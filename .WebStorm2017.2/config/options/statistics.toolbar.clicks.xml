@@ -2,8 +2,9 @@
   <component name="ToolbarClicksCollector">
     <counts>
       <entry action="ChangesView.AddUnversioned.From.Dialog@SPECIFIC_FILES_DIALOG" count="1" />
-      <entry action="ChangesView.Refresh@ChangesViewToolbar" count="6" />
+      <entry action="ChangesView.Refresh@ChangesViewToolbar" count="7" />
       <entry action="CheckinProject@ChangesViewToolbar" count="2" />
+      <entry action="CheckinProject@NavBarToolbar" count="1" />
       <entry action="Debug@NavBarToolbar" count="4" />
       <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="1" />
       <entry action="Rerun@DebuggerToolbar" count="1" />
@@ -19,6 +20,7 @@
       <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="11" />
       <entry action="com.intellij.ide.todo.TodoPanel$MyPreviewAction@TodoViewToolbar" count="2" />
       <entry action="com.intellij.openapi.vcs.changes.actions.IgnoredSettingsAction@ChangesViewToolbar" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$2@ChangesBrowser" count="1" />
       <entry action="com.intellij.util.ui.ReloadablePanel$ReloadAction@UI.Configuration.Component.Reload.Panel" count="1" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="4" />
     </counts>
