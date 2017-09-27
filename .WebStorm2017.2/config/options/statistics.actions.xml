@@ -9,18 +9,19 @@
       <entry action="ActivateTerminalToolWindow" count="1" />
       <entry action="ChangesView.AddUnversioned.From.Dialog" count="1" />
       <entry action="ChangesView.CreatePatch" count="1" />
-      <entry action="ChangesView.Refresh" count="5" />
-      <entry action="CheckinProject" count="3" />
+      <entry action="ChangesView.Refresh" count="6" />
+      <entry action="CheckinProject" count="7" />
       <entry action="CloseProject" count="1" />
       <entry action="CodeCompletion" count="13" />
       <entry action="CommentByBlockComment" count="13" />
       <entry action="Debug" count="4" />
       <entry action="DebugClass" count="1" />
-      <entry action="EditorBackSpace" count="1679" />
+      <entry action="EditorBackSpace" count="1770" />
       <entry action="EditorChooseLookupItem" count="46" />
-      <entry action="EditorCopy" count="27" />
+      <entry action="EditorCopy" count="46" />
       <entry action="EditorCut" count="11" />
       <entry action="EditorDelete" count="10" />
+      <entry action="EditorDeleteLine" count="1" />
       <entry action="EditorDown" count="61" />
       <entry action="EditorEnter" count="308" />
       <entry action="EditorEscape" count="2" />
@@ -30,7 +31,7 @@
       <entry action="EditorLookupDown" count="1" />
       <entry action="EditorPageDown" count="4" />
       <entry action="EditorPageDownWithSelection" count="1" />
-      <entry action="EditorPaste" count="46" />
+      <entry action="EditorPaste" count="54" />
       <entry action="EditorRight" count="300" />
       <entry action="EditorScrollDown" count="1" />
       <entry action="EditorStartNewLine" count="3" />
@@ -41,23 +42,31 @@
       <entry action="FileChooser.GotoDesktop" count="1" />
       <entry action="Git.Branches" count="1" />
       <entry action="Git.Clone" count="1" />
-      <entry action="Git.Init" count="1" />
+      <entry action="Git.Init" count="2" />
+      <entry action="Github.Create.Gist" count="1" />
+      <entry action="Github.Open.In.Browser" count="1" />
+      <entry action="Github.Share" count="3" />
       <entry action="GotoDeclaration" count="1" />
       <entry action="HideAllWindows" count="23" />
       <entry action="JumpToLastWindow" count="1" />
       <entry action="NewDir" count="3" />
+      <entry action="NewHtmlFile" count="1" />
       <entry action="NewJavaScriptFile" count="9" />
-      <entry action="NewWebStormDirectoryProject" count="3" />
-      <entry action="OpenFile" count="7" />
-      <entry action="Rerun" count="4" />
+      <entry action="NewWebStormDirectoryProject" count="6" />
+      <entry action="OpenFile" count="9" />
+      <entry action="Rerun" count="5" />
       <entry action="Resume" count="1" />
       <entry action="Run" count="16" />
       <entry action="RunClass" count="4" />
       <entry action="SaveAll" count="5" />
       <entry action="ShowErrorDescription" count="2" />
-      <entry action="Stop" count="5" />
+      <entry action="ShowSettings" count="1" />
+      <entry action="Start.Use.Vcs" count="2" />
+      <entry action="Stop" count="6" />
+      <entry action="SynchronizeCurrentFile" count="1" />
       <entry action="ToggleLineBreakpoint" count="9" />
-      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.Push" count="3" />
+      <entry action="Vcs.QuickListPopupAction" count="1" />
       <entry action="Vcs.UpdateProject" count="1" />
       <entry action="XDebugger.MuteBreakpoints" count="2" />
     </counts>

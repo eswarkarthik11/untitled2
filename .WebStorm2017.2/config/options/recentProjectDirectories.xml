@@ -2,16 +2,22 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/WebstormProjects/untitled2" />
+        <option value="$USER_HOME$/WebstormProjects/varun" />
+        <option value="$USER_HOME$/WebstormProjects/project4" />
+        <option value="$USER_HOME$/WebstormProjects/project2" />
+        <option value="$USER_HOME$/WebstormProjects/project1" />
+        <option value="$USER_HOME$/WebstormProjects/untitled1" />
         <option value="$USER_HOME$/WebstormProjects/NodeAPI" />
         <option value="$USER_HOME$/Desktop/brainhrwebsitev2-master" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/WebstormProjects/NodeAPI" />
+        <option value="$USER_HOME$/WebstormProjects/varun" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/WebstormProjects/NodeAPI" />
+    <option name="lastPath" value="$USER_HOME$/WebstormProjects/untitled2" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/Desktop/brainhrwebsitev2-master">
@@ -31,8 +37,8 @@
               <option name="build" value="WS-172.4155.35" />
               <option name="productionCode" value="WS" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1506492994802" />
-              <option name="buildTimestamp" value="1505137933458" />
+              <option name="projectOpenTimestamp" value="1506541570553" />
+              <option name="buildTimestamp" value="1505137970950" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -58,6 +64,39 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/WebstormProjects/project1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4155.35" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506544628899" />
+              <option name="buildTimestamp" value="1505137970950" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/project2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4155.35" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506544813060" />
+              <option name="buildTimestamp" value="1505137970950" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/project4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4155.35" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506545589109" />
+              <option name="buildTimestamp" value="1505137926850" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/WebstormProjects/untitled">
           <value>
             <RecentProjectMetaInfo>
@@ -66,6 +105,39 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1505812433008" />
               <option name="buildTimestamp" value="1505137970722" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4155.35" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506541960864" />
+              <option name="buildTimestamp" value="1505137970950" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4155.35" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506546302758" />
+              <option name="buildTimestamp" value="1505137955035" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/varun">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4155.35" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506545720827" />
+              <option name="buildTimestamp" value="1505137926850" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
